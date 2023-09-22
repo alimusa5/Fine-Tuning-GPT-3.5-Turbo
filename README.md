@@ -1,7 +1,7 @@
 # Fine-Tuning-GPT-3.5-Turbo
 Fine tuning of GPT-3.5 Turbo
 
-##Fine Tuning:
+## Fine Tuning:
 
 Fine-tuning refers to the process of taking a pre-trained model (a model trained on a large dataset) and adapting it to a new, but related, task. Instead of training a model from scratch, which can be time-consuming and require a lot of data, fine-tuning leverages the knowledge captured in the pre-trained model to achieve better performance on the new task with potentially less data.
 
