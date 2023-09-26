@@ -13,7 +13,7 @@ Correcting failures to follow complex prompts
 Handling many edge cases in specific ways
 Performing a new skill or task that’s hard to articulate in a prompt
 
-**BLOG:**
+**Blog:**
 head over to my medium blog to find the step by step guide on how to set up your dataset and how to fine tune it.
 
-**LINK:** https://medium.com/@alimusa2514/how-to-fine-tune-gpt-3-5-turbo-8253ed30fe09
+**Link:** https://medium.com/@alimusa2514/how-to-fine-tune-gpt-3-5-turbo-8253ed30fe09
